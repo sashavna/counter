@@ -1,0 +1,19 @@
+.display {
+    height: 200px;
+    width: 200px;
+    background-color: #a3a3a3;
+    border: solid 2px #6e32ce;
+    border-radius: 5px;
+}
+
+.numberScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 400%;
+}
+
+.numberMax {
+    color: red;
+}

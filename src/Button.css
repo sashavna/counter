@@ -1,0 +1,16 @@
+.button {
+    width: 95px;
+    height: 45px;
+    background-color: #a3a3a3;
+    border: solid 2px #6e32ce;
+    border-radius: 5px;
+}
+
+.button:active {
+    background-color: #6e32ce;
+}
+
+.button:disabled {
+    background-color: #a3a3a3;
+    border: solid 2px #6e32ce;
+}
